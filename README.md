@@ -2,7 +2,7 @@
 
 Mapping accessible/inaccessible places.
 
-See our main repo's readme at https://github.com/unlockedlab/unlockphilly/README.md
+See our main repo's readme at https://github.com/UnlockedLab/unlockphilly/blob/master/README.md
 
 This reponsive, accessible web application is used to collect accessiblity information about places.
 
