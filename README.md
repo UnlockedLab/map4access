@@ -1,6 +1,8 @@
 # Map4Access
 
-Mapping accessible/inaccessible places
+Mapping accessible/inaccessible places.
+
+See our main repo's readme at https://github.com/unlockedlab/unlockphilly
 
 This reponsive, accessible web application is used to collect accessiblity information about places.
 
